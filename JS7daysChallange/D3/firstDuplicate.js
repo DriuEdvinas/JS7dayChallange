@@ -37,4 +37,8 @@ describe("firstDuplicate()", () => {
     // assert
     expect(result).toBe(-1);
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 981476f8eaec831671a5d971ddcc7fcc998eeef7
